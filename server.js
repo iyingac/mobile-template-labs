@@ -1,3 +1,4 @@
+'use strict';
 var http           = require('http'),
     config         = require('./server/config'),
     express        = require('express'),
